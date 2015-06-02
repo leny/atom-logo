@@ -1,5 +1,7 @@
 comment: "Roughed out by Paul Bissex <http://e-scribe.com/news/>"
-fileTypes: []
+fileTypes: [
+  "logo"
+]
 name: "Logo"
 patterns: [
   {
