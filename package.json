@@ -1,9 +1,8 @@
 {
   "name": "language-logo",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/leny/atom-logo",
   "license": "MIT",
   "engines": {
