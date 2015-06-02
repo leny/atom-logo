@@ -1,0 +1,4 @@
+".source.logo":
+  editor:
+    foldEndPattern: "^end$"
+    commentStart: "; "

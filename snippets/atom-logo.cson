@@ -1,0 +1,12 @@
+".source.logo":
+  "Standalone Quote":
+    prefix: "\""
+    body: "\""
+  To:
+    prefix: "to"
+    body: '''
+      to ${1:procedure.name} ${2::argument}
+        ${3:;procedure body}
+      end
+      
+    '''
